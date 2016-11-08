@@ -2,4 +2,4 @@ Gérer son code avec Git et GitHub
 Activité Partie 2 : Partager un repository sur GitHub
 
 L'URL de mon repository :
-TODO -Insertion de l'url du repos GitHub
+https://github.com/ytb68/Activite_P2.git
